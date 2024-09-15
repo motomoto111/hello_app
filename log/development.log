@@ -1,0 +1,21 @@
+Started GET "/" for ::1 at 2024-09-15 22:10:38 +0900
+Started GET "/" for ::1 at 2024-09-15 22:10:38 +0900
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering c:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering c:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered c:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 46.2ms | Allocations: 691)
+Completed 200 OK in 294ms (Views: 94.6ms | ActiveRecord: 0.0ms | Allocations: 8571)
+
+
+  Rendered c:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 39.8ms | Allocations: 703)
+Completed 200 OK in 294ms (Views: 106.6ms | ActiveRecord: 0.0ms | Allocations: 8767)
+
+
+Started GET "/" for ::1 at 2024-09-15 22:13:18 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.1ms | Allocations: 16)
+Completed 200 OK in 34ms (Views: 21.9ms | ActiveRecord: 0.0ms | Allocations: 2585)
+
+
